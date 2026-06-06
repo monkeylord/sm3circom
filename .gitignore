@@ -1,0 +1,7 @@
+build/
+*.r1cs
+*.wasm
+*.wtns
+*.sym
+node_modules/
+*.log

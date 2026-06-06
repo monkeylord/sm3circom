@@ -1,0 +1,30 @@
+{
+  "name": "sm3-circom",
+  "version": "1.0.0",
+  "description": "SM3 hash function zero-knowledge proof circuit library for circom",
+  "main": "index.js",
+  "files": [
+    "circuits/",
+    "scripts/",
+    "test/"
+  ],
+  "scripts": {
+    "build": "bash scripts/build.sh",
+    "test": "node test/test_sm3.js",
+    "generate": "node test/generate_witness.js"
+  },
+  "keywords": [
+    "sm3",
+    "circom",
+    "zero-knowledge",
+    "zkp",
+    "hash",
+    "cryptography",
+    "chinese-cryptography"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/user/sm3-circom"
+  }
+}
