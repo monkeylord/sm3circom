@@ -4,6 +4,8 @@ SM3 密码杂凑算法的零知识证明电路库（circom 实现），支持 Gr
 
 基于论文: *"Implementation and Optimization of Zero-Knowledge Proof Circuit Based on Hash Function SM3"* (Sensors 2022, 22(16), 5951)
 
+A vibe coding project with OpenCode + DeepSeekV4 Pro.
+
 ---
 
 ## 环境要求
